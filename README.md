@@ -1,0 +1,2 @@
+# Bangla Call Caption
+Experimental Android app translating selected accessible English caption text to Bengali using on-device ML Kit. It does not capture call audio. Samsung Live Caption accessibility compatibility is unverified. Enable English Live Caption, download the model, enable the accessibility service, identify a caption view ID, enter its package and exact ID, and start a session. Stop after use. Test only with consent. GitHub Actions builds a debug APK artifact.
